@@ -1,1 +1,1 @@
-# Product store
+# Product store(MERN)
